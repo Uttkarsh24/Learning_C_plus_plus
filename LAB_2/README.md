@@ -16,4 +16,5 @@
    function.
 4. Write a program to perform the addition of two matrices using function.
 5. Write a program to perform the addition of two complex numbers using structures.
-6. 
+6. Write a C++ program to find the highest occurring digit in prime numbers in a given
+   range.
