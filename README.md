@@ -10,5 +10,5 @@
 
 - You can run the codes in any C++ compiler.
 - I will be using Visual Studio Code for writing the codes.
-- You can use any compiler of your choice.
+- You can use any compiler of your choice
 
