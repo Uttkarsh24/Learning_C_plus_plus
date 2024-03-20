@@ -1,6 +1,5 @@
 # Question
-
-- Write a C++ program to determine whether a 2D array entered by the user is an
+Write a C++ program to determine whether a 2D array entered by the user is an
 identity matrix or not, using the given Array class declaration. Below is the provided
 class declaration:
 Your program should implement the following member and friend functions:
