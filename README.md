@@ -12,3 +12,14 @@
 - I will be using Visual Studio Code for writing the codes.
 - You can use any compiler of your choice
 
+### Issues
+
+- If you find any issues with the code, feel free to open an issue in the repo.
+- I will try to solve the issue as soon as possible.
+
+### Contributions
+
+- If you want to contribute to the repo, feel free to open a pull request.
+- I will review the pull request and merge it if it is correct.
+
+
