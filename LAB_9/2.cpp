@@ -10,7 +10,7 @@ int main() {
 
     ofstream ofile("HELLO.txt");
     if (ofile.is_open()) {
-        ofile << "Hello I am Anmol.\n";
+        ofile << "Hello I am Uttkarsh.\n";
         ofile << "I am valorant player.";
         ofile.close();
     } else {
